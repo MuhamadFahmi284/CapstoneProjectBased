@@ -1,2 +1,2 @@
-# CapstoneProjectBased
+# CapstoneProductBased
 Sipaling Capstone Product based
